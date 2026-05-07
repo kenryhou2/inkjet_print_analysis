@@ -1,0 +1,8 @@
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.CSV
+*.zip
+/data
+/outputs
